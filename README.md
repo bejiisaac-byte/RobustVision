@@ -34,7 +34,7 @@ This work targets the practical challenges of deploying robust models:
 - Adversarial attack libraries compatible with AutoAttack
 
 ## Status
-Active research codebase. Core training and evaluation loops are implemented and used for empirical studies on robust overfitting and threat-model generalization.
+Active research codebase (updated August 2026). Core training and evaluation loops are implemented and used for empirical studies on robust overfitting and threat-model generalization. Ongoing work focuses on improved evaluation diagnostics and practical deployment constraints.
 
 ---
 
